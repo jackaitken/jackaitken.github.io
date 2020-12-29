@@ -1,2 +1,2 @@
 # jackaitken.github.io
-[A timer built in python] (index.html)
+A timer built in python
